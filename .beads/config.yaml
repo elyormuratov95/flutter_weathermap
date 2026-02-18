@@ -1,0 +1,4 @@
+repos:
+  primary: "."
+  additional:
+    - "/Users/a123/.beads-planning"

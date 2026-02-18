@@ -1,0 +1,13 @@
+{
+  "loginHint": "Login",
+  "passwordHint": "Parol",
+  "signIn": "Kirish",
+  "loginScreenTitle": "Kirish",
+  "loginRequired": "Loginni kiriting",
+  "passwordRequired": "Parolni kiriting",
+  "selectLanguage": "Tilni tanlang",
+  "languageEn": "English",
+  "languageRu": "Русский",
+  "languageUz": "Oʻzbek",
+  "languageScreenTitle": "Til"
+}

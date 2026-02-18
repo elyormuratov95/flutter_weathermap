@@ -1,0 +1,13 @@
+{
+  "loginHint": "Логин",
+  "passwordHint": "Пароль",
+  "signIn": "Войти",
+  "loginScreenTitle": "Вход",
+  "loginRequired": "Введите логин",
+  "passwordRequired": "Введите пароль",
+  "selectLanguage": "Выберите язык",
+  "languageEn": "English",
+  "languageRu": "Русский",
+  "languageUz": "Oʻzbek",
+  "languageScreenTitle": "Язык"
+}
